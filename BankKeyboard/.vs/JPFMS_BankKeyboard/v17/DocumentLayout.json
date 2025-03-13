@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\My Projects\\.Net\\VirtualKeyboard\\BankKeyboard\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8FCF4C16-D427-4A1B-910C-42FB5C9553F5}|JPFMS_BankKeyboard\\JPFMS_BankKeyboard.csproj|c:\\my projects\\.net\\virtualkeyboard\\bankkeyboard\\jpfms_bankkeyboard\\jpfms_bankkeyboard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8FCF4C16-D427-4A1B-910C-42FB5C9553F5}|JPFMS_BankKeyboard\\JPFMS_BankKeyboard.csproj|solutionrelative:jpfms_bankkeyboard\\jpfms_bankkeyboard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FCF4C16-D427-4A1B-910C-42FB5C9553F5}|JPFMS_BankKeyboard\\JPFMS_BankKeyboard.csproj|c:\\my projects\\.net\\virtualkeyboard\\bankkeyboard\\jpfms_bankkeyboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FCF4C16-D427-4A1B-910C-42FB5C9553F5}|JPFMS_BankKeyboard\\JPFMS_BankKeyboard.csproj|solutionrelative:jpfms_bankkeyboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "JPFMS_BankKeyboard",
+              "DocumentMoniker": "C:\\My Projects\\.Net\\VirtualKeyboard\\BankKeyboard\\JPFMS_BankKeyboard\\JPFMS_BankKeyboard.csproj",
+              "RelativeDocumentMoniker": "JPFMS_BankKeyboard\\JPFMS_BankKeyboard.csproj",
+              "ToolTip": "C:\\My Projects\\.Net\\VirtualKeyboard\\BankKeyboard\\JPFMS_BankKeyboard\\JPFMS_BankKeyboard.csproj",
+              "RelativeToolTip": "JPFMS_BankKeyboard\\JPFMS_BankKeyboard.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T22:56:53.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ValidationResponse.cs",
               "DocumentMoniker": "C:\\My Projects\\.Net\\VirtualKeyboard\\BankKeyboard\\JPFMS_BankKeyboard\\Responses\\ValidationResponse.cs",
               "RelativeDocumentMoniker": "JPFMS_BankKeyboard\\Responses\\ValidationResponse.cs",
@@ -50,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\My Projects\\.Net\\VirtualKeyboard\\BankKeyboard\\JPFMS_BankKeyboard\\Model\\Person.cs",
               "RelativeDocumentMoniker": "JPFMS_BankKeyboard\\Model\\Person.cs",
@@ -62,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\My Projects\\.Net\\VirtualKeyboard\\BankKeyboard\\JPFMS_BankKeyboard\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "JPFMS_BankKeyboard\\Controllers\\HomeController.cs",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PersonMongoEntity.cs",
               "DocumentMoniker": "C:\\My Projects\\.Net\\VirtualKeyboard\\BankKeyboard\\JPFMS_BankKeyboard\\Model\\PersonMongoEntity.cs",
               "RelativeDocumentMoniker": "JPFMS_BankKeyboard\\Model\\PersonMongoEntity.cs",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PasswordRequest.cs",
               "DocumentMoniker": "C:\\My Projects\\.Net\\VirtualKeyboard\\BankKeyboard\\JPFMS_BankKeyboard\\Requests\\PasswordRequest.cs",
               "RelativeDocumentMoniker": "JPFMS_BankKeyboard\\Requests\\PasswordRequest.cs",
