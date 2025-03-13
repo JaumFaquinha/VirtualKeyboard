@@ -37,6 +37,9 @@ Fazer o download do projeto e utilizar ou Visual Studio ou VSCode (instalar exte
 Fazer o download do projeto e utilizar o VSCode para abrir o projeto apenas usar a extensão LiveServer pra executar.
 
 
+## Banco de Dados
+Para criar documento e visualizar documentos criados é necessário baixar e instalar o MongoCompass e efetuar a conexão via MongoCompas e MongoDB.
+
 # Dúvidas
 Caso haja duvidas, por favor entrar em contato com o proprietário do repositório (JaumFaquinha).
 
